@@ -3,7 +3,7 @@
     "registry": "https://artifactory.twitter.biz/api/npm/js-releases-local"
   },
   "name": "testcafe-browser-provider-browserstack",
-  "version": "1.8.0-twitter-fork.1",
+  "version": "1.8.0-twitter-fork.2",
   "description": "browserstack TestCafe browser provider plugin.",
   "repository": "https://github.com/DevExpress/testcafe-browser-provider-browserstack",
   "engines": {
